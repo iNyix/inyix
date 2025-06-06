@@ -10,6 +10,8 @@
   <li>💼 I am currently unemployed.</li>
 </ul>
 
+<br clear="right" />
+
 <div align="center">
   <h2 align="center">Used Technologies</h2>
   <div align="center">
