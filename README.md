@@ -1,6 +1,6 @@
 <img id='gif' align="right" src="https://nya-network.com/assets/inyix-pfp.png" width="240">
 <header align="left">
-    <h1 align="left">Hi everyone <img src="" width="35"></h1>
+    <h1 align="left">Hi Everyone</h1>
     <h3 align="left">
         <ul>
             <li>🔭 I'm currently figuring out what to specialize in</li>
