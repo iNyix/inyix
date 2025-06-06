@@ -4,8 +4,6 @@
 
 <br>
 <br>
-<br>
-<br>
 <ul>
   <li>🔭 I'm currently figuring out what to specialize in</li>
   <li>👨‍🎓 I'm learning Vue/JS at the moment</li>
