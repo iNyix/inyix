@@ -1,5 +1,5 @@
 <h1>Hi Everyone</h1>
-
+<br>
 <img align="right" src="https://nya-network.com/assets/inyix-pfp.png" width="250" alt="iNyix profile picture">
 
 <br>
