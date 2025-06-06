@@ -1,6 +1,7 @@
-<h1>Hi Everyone</h1>
-
+<br><br>
 <img align="right" src="https://nya-network.com/assets/inyix-pfp.png" width="200" alt="iNyix profile picture">
+
+<h1>Hi Everyone</h1>
 
 <ul>
   <li>🔭 I'm currently figuring out what to specialize in</li>
