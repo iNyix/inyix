@@ -12,7 +12,7 @@
 
 <br clear="right" />
 
-<h2>Used Technologies</h2>
+<h2>Languages I am learning or knowing.</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="80" />
