@@ -1,4 +1,4 @@
-<img id='gif' align="right" src="https://nya-network.com/assets/inyix-pfp.png" width="240">
+<img id='gif' align="right" src="https://nya-network.com/assets/inyix-pfp.png" width="300">
 <header align="left">
     <h1 align="left">Hi Everyone</h1>
     <h3 align="left">
