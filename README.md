@@ -2,6 +2,7 @@
 
 <img align="right" src="https://nya-network.com/assets/inyix-pfp.png" width="250" alt="iNyix profile picture">
 
+<br>
 <ul>
   <li>🔭 I'm currently figuring out what to specialize in</li>
   <li>👨‍🎓 I'm learning Vue/JS at the moment</li>
